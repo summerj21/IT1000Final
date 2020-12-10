@@ -11,7 +11,7 @@
   * Weight lifting
   * Running
 
-##Interests
+## Interests
 * Christianity
   * Apologetics
   * Bible studies
