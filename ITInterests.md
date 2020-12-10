@@ -8,3 +8,5 @@ Information Technology 1000 has taught Summer about a variety of technolgies. He
 * Scalable Vector Graphics (SVG)
 
 ![Artificial Intelligence: Sophia](https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:667/q:auto/https://www.unite.ai/wp-content/uploads/2020/06/sophia-robot.jpg)
+
+![Internet of Things](https://b8g9x2x5.rocketcdn.me/wp-content/uploads/2018/08/IoT-ss-1920-8_cya3zt-1.png)
