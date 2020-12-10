@@ -8,12 +8,13 @@
   
 <p>Additionally, Summer works at the MU Soil Health Assessment Center (SHAC). There, she tests the biological, physical, and chemical properties of soil. This includes bulk density, cation exchange capacity, nitrogen, and organic and inorganic carbon content. The SHAC receives soil samples from all over the world. It is one of the few labs in the country that has the capability to test so many different characteristics about soil; it is a huge proponent of soil health.</p>
 
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/SoGIuzyyBpQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/SoGIuzyyBpQ" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/embed/SoGIuzyyBpQ"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 
 
