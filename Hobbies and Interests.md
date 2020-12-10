@@ -11,7 +11,8 @@
   * Weight lifting
   * Running
 
-![University of Missouri SNR](38585F3A-B9BC-42E9-8041-AF0D5C92F43C.png "University of Missouri SNR")
+![University of Missouri SNR](2C887258-DDB0-400A-911B-206BF5937180.jpeg
+Go to file "2019 MU Club Racquetball Team")
 
 ## Interests
 * Christianity
