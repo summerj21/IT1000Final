@@ -11,9 +11,7 @@ Summer participates in various undergrad research projects through the School of
 Additionally, Summer works at the MU Soil Health Assessment Center (SHAC). There, she tests the biological, physical, and chemical properties of soil. This includes bulk density, cation exchange capacity, nitrogen, and organic and inorganic carbon content. The SHAC receives soil samples from all over the world. It is one of the few labs in the country that has the capability to test so many different characteristics about soil; it is a huge proponent of soil health.
 
 <!-- blank line -->
-<figure class="video_container">
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 <!-- blank line -->
 
 ### Post-Mizzou
