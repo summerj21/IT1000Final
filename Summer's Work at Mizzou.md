@@ -14,6 +14,6 @@
 </figure>
 <!-- blank line -->
 
-<p> Summer hopes to research climate change in the future and find ways to mitigate its effetcs such as through carbon sequestration and biosequestion.</p>
+Summer hopes to research climate change in the future and find ways to mitigate its effetcs such as through carbon sequestration and biosequestion.
 
 
