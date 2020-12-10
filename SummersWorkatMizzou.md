@@ -13,6 +13,6 @@ Additionally, Summer works at the MU Soil Health Assessment Center (SHAC). There
 [Soil Health Assessment Center](https://www.youtube.com/embed/enMumwvLAug)
 
 ### Post-Mizzou
-Summer hopes to research climate change in the future and find ways to mitigate its effetcs such as through carbon sequestration and biosequestion.
+Summer hopes to research climate change in the future and find ways to mitigate its effects, such as through carbon sequestration and biosequestion.
 
 
