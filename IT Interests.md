@@ -7,4 +7,4 @@ Information Technology 1000 has taught Summer about a variety of technolgies. He
 * Hypertext Markup Language (HTML)
 * Scalable Vector Graphics (SVG)
 
-![Artificial Intelligence: Sophia](vhttps://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fan-ai-professor-explains-three-concerns-about-granting-citizenship-to-robot-sophia-86479&psig=AOvVaw0cGzaIHVgRQLzDWLzHGeA9&ust=1607719522101000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODq0IikxO0CFQAAAAAdAAAAABAD)
+![Artificial Intelligence: Sophia](vhttps://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fan-ai-professor-explains-three-concerns-about-granting-citizenship-to-robot-sophia-86479&psig=AOvVaw0cGzaIHVgRQLzDWLzHGeA9&ust=1607719522101000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODq0IikxO0CFQAAAAAdAAAAABAD.jpeg)
