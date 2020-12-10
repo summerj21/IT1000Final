@@ -11,7 +11,7 @@
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/SoGIuzyyBpQ" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtu.be/SoGIuzyyBpQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
