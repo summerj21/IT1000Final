@@ -1,4 +1,4 @@
-## Summer's Work at Mizzou
+## Summer's Academic Work at Mizzou
 
 ### Undergrad Research
 Summer participates in various undergrad research projects through the School of Natural Resources. This includes work with Dr. Chrstine Li and Dr. Damon Hall that touch on diverse environmental topics such as environmental education and limnology.
