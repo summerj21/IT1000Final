@@ -1,6 +1,6 @@
-#Hobbies and Interests
+# Hobbies and Interests
 
-##Hobbies
+## Hobbies
 * Racquetball
 * Volunteering
   * Participating in local stream clean-ups
