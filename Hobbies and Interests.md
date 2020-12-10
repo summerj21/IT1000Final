@@ -11,7 +11,7 @@
   * Weight lifting
   * Running
 
-![University of Missouri SNR](2C887258-DDB0-400A-911B-206BF5937180.jpeg
+![MU Club Racquetball Team](2C887258-DDB0-400A-911B-206BF5937180.jpeg
 Go to file "2019 MU Club Racquetball Team")
 
 ## Interests
