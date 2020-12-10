@@ -9,6 +9,5 @@
 * Hobbies and Interests
 * IT Interests
 * Example Code
-* Fun Photos
 
 
