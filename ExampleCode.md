@@ -5,8 +5,7 @@ IT 1000 taught Summer how to code in various languages including Hypertext Marku
 Here is some code Summer created for projects in IT 1000.
 
 ### Object Position Calculation Code
-'''
-initial_position = float(input("Enter the object's initial position: "))
+'''initial_position = float(input("Enter the object's initial position: "))
 initial_velocity = float(input("Enter the object's initial velocity: "))
 time_elapsed = float(input("Enter the object's time elapsed: "))
 acceleration = float(input("Enter the object's acceleration: "))
