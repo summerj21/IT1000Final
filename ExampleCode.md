@@ -11,7 +11,8 @@ initial_velocity = float(input("Enter the object's initial velocity: "))
 time_elapsed = float(input("Enter the object's time elapsed: "))
 acceleration = float(input("Enter the object's acceleration: "))
 final_position = initial_position + initial_velocity * time_elapsed + 0.5 * acceleration * time_elapsed * time_elapsed
-print("The final position is", final_position)'''
+print("The final position is", final_position)
+'''
 
 ### Python Turtle Graphic Code
 '''
